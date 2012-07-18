@@ -1,7 +1,6 @@
 Installation
 ===========
-``` $ make
-```
+` $ make `
 
 Usage
 =====
