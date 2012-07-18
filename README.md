@@ -11,8 +11,8 @@ Ciscal compiler.
 
     Usage: ciscal [options] ...
     Options:
-        -f filename  	 	Compiles filename. 
-        -i 			 		Output icode to icode.txt 
+        -f filename  	 	    Compiles filename. 
+        -i 			 		    Output icode to icode.txt 
         -a [x86 or metasim] 	Output assembly to assembly.s. Default metasim.
 
 
