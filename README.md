@@ -17,7 +17,9 @@ Ciscal compiler.
 
 
 For intermediate code and metasim final code
-` ./ciscal -f test7.c -i -ametasim `
+
+`$ ./ciscal -f test7.c -i -ametasim `
 
 For intermediate and final code for AT&T x86 assembly
-` ./ciscal -f test7.c -i -ax86 `
+
+`$ ./ciscal -f test7.c -i -ax86 `
